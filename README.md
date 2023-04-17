@@ -21,4 +21,4 @@ The purpose of this project was to:
 * Power Point
 
 ## Project Description
-The dataset was gotten from Kaggle for the Women In Data Africa Datathon, which contains detailed information on the players, teams, matches and result of every Women;s World Cup Tournament from 1991 to 2019. The dataset was analyzed to gain valuable insights into the evolution of women's soccer over the years, the performance of the top teams and players, and the strategies used by the coaches to succeed in this highly competitive sport.
+The dataset was gotten from Kaggle for the Women In Data Africa Datathon, which contains detailed information on the players, teams, matches and result of every Women's World Cup Tournament from 1991 to 2019. The dataset was analyzed to gain valuable insights into the evolution of women's soccer over the years, the performance of the top teams and players, and the strategies used by the coaches to succeed in this highly competitive sport.
